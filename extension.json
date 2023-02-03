@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Exploring the World of Anime Faces through Variational Autoencoding",
+    "description": "In this project, we will delve into the world of anime by training a Variational Autoencoder (VAE) on a dataset of anime faces.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Exploring-the-World-of-Anime-Faces-through-Variational-Autoencoding.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
